@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/paingha/tugcli/releases/download/v0.1.2/tug_0.1.2_windows_amd64.zip",
+            "bin": [
+                "tug.exe"
+            ],
+            "hash": "c950c782712f4e74eb7e88834b8beb9d613dc5d76eb64be4a21972afe41ec5c8"
+        },
+        "arm64": {
+            "url": "https://github.com/paingha/tugcli/releases/download/v0.1.2/tug_0.1.2_windows_arm64.zip",
+            "bin": [
+                "tug.exe"
+            ],
+            "hash": "648906017f7fe5b9aaaf3f4d6b9f91d06dc8025b1e79621d8d11a0381a2a2e54"
+        }
+    },
+    "homepage": "https://github.com/paingha/tugcli",
+    "license": "MIT",
+    "description": "Reach Kubernetes clusters across providers, one terminal at a time"
+}
