@@ -1,19 +1,19 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/paingha/tugcli/releases/download/v0.1.3/tug_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/paingha/tugcli/releases/download/v0.1.4/tug_0.1.4_windows_amd64.zip",
             "bin": [
                 "tug.exe"
             ],
-            "hash": "c0be624f5c789c886c06474ea4504ea92aebec2c3e45cbe3935346a7f9c84847"
+            "hash": "145c1ed79a414300a7df62d9afba458d90cbde1269fbf6181cd23124783b636b"
         },
         "arm64": {
-            "url": "https://github.com/paingha/tugcli/releases/download/v0.1.3/tug_0.1.3_windows_arm64.zip",
+            "url": "https://github.com/paingha/tugcli/releases/download/v0.1.4/tug_0.1.4_windows_arm64.zip",
             "bin": [
                 "tug.exe"
             ],
-            "hash": "423fa30529d3acf4395f290f2e83cd70203f63b14aa597c4250244dcd969bdbe"
+            "hash": "f2fdb15d96fdb710bf2f5c68af3815100f54cc81c4ebcb29a8454a66b70edaae"
         }
     },
     "homepage": "https://github.com/paingha/tugcli",
